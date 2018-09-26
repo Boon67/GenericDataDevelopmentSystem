@@ -1,0 +1,15 @@
+{
+    "auto_restart": false,
+    "concurrency": 0,
+    "current_version": 1,
+    "dependencies": "clearblade,log,clearblade,log",
+    "execution_timeout": 60,
+    "logging_enabled": "false",
+    "name": "RB_RuleEditor_wifi_humidity_low_alert_Service",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "e0b189b30be8c582c7928e90d40c",
+    "source": "RB_RuleEditor_wifi_humidity_low_alert_Service.js"
+}
