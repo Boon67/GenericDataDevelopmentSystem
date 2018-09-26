@@ -1,0 +1,4 @@
+#Variables
+ADAPTERSERVICENAME=clearblade.service
+SYSTEMDPATH=/lib/systemd/system
+LOGLEVEL=DEBUG
