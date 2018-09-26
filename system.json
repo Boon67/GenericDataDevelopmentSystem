@@ -1,0 +1,143 @@
+{
+    "auth": true,
+    "deployments": [
+        {
+            "assets": [
+                {
+                    "asset_class": "ble_whitelist",
+                    "asset_id": "",
+                    "deployment": "C031051823-00018",
+                    "member": "C031051823-00018_deployment_edge_group",
+                    "sync": true
+                },
+                {
+                    "asset_class": "devices",
+                    "asset_id": "",
+                    "deployment": "C031051823-00018",
+                    "member": "C031051823-00018_deployment_edge_group",
+                    "sync": false
+                }
+            ],
+            "description": "ClearBlade Edge",
+            "edges": [
+                "C031051823-00018"
+            ],
+            "name": "C031051823-00018"
+        },
+        {
+            "assets": [
+                {
+                    "asset_class": "devices",
+                    "asset_id": "",
+                    "deployment": "C031051823-00235",
+                    "member": "C031051823-00235_deployment_edge_group",
+                    "sync": true
+                }
+            ],
+            "description": "Centri Rigado Edge",
+            "edges": [
+                "C031051823-00235"
+            ],
+            "name": "C031051823-00235"
+        },
+        {
+            "assets": [
+                {
+                    "asset_class": "devices",
+                    "asset_id": "",
+                    "deployment": "Centri Edge",
+                    "member": "Centri Edge_deployment_edge_group",
+                    "sync": true
+                }
+            ],
+            "description": "Centri PI Edge",
+            "edges": [
+                "centri-edge"
+            ],
+            "name": "Centri Edge"
+        },
+        {
+            "assets": [
+                {
+                    "asset_class": "devices",
+                    "asset_id": "",
+                    "deployment": "C031051823-00107",
+                    "member": "C031051823-00107_deployment_edge_group",
+                    "sync": false
+                },
+                {
+                    "asset_class": "ble_whitelist",
+                    "asset_id": "",
+                    "deployment": "C031051823-00107",
+                    "member": "C031051823-00107_deployment_edge_group",
+                    "sync": false
+                }
+            ],
+            "description": "Rigado Rigado Edge",
+            "edges": [
+                "C031051823-00107"
+            ],
+            "name": "C031051823-00107"
+        },
+        {
+            "assets": [
+                {
+                    "asset_class": "devices",
+                    "asset_id": "",
+                    "deployment": "C031061830-00516",
+                    "member": "C031061830-00516_deployment_edge_group",
+                    "sync": false
+                }
+            ],
+            "description": "Centri New Rigado Edge",
+            "edges": [
+                "C031061830-00516"
+            ],
+            "name": "C031061830-00516"
+        },
+        {
+            "assets": [
+                {
+                    "asset_class": "devices",
+                    "asset_id": "",
+                    "deployment": "C031051823-00001",
+                    "member": "C031051823-00001_deployment_edge_group",
+                    "sync": true
+                },
+                {
+                    "asset_class": "ble_whitelist",
+                    "asset_id": "8097e00f-ea84-4361-b810-2b4701046944",
+                    "deployment": "C031051823-00001",
+                    "member": "C031051823-00001_deployment_edge_group",
+                    "sync": true
+                },
+                {
+                    "asset_class": "ble_whitelist",
+                    "asset_id": "e0a53613-1299-4c20-909a-917b72c465bb",
+                    "deployment": "C031051823-00001",
+                    "member": "C031051823-00001_deployment_edge_group",
+                    "sync": true
+                },
+                {
+                    "asset_class": "portals",
+                    "asset_id": "Multiple_Devices_BD-Demo",
+                    "deployment": "C031051823-00001",
+                    "member": "C031051823-00001_deployment_edge_group",
+                    "sync": true
+                }
+            ],
+            "description": "BD Edge Devices",
+            "edges": [
+                "C031051823-00001",
+                "BD_SD_PI_GW"
+            ],
+            "name": "C031051823-00001"
+        }
+    ],
+    "description": "",
+    "messaging_url": "platform.clearblade.com:1883",
+    "name": "BD Development System",
+    "platform_url": "https://bd.clearblade.com",
+    "system_key": "aab189b30bcaf7b4fdd991aff210",
+    "system_secret": ""
+}
