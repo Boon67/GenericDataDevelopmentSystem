@@ -1,0 +1,19 @@
+{
+    "auto_restart": false,
+    "concurrency": 0,
+    "current_version": 12,
+    "dependencies": "log,clearblade,qLib",
+    "execution_timeout": 60,
+    "logging_enabled": "false",
+    "name": "alerts",
+    "params": [
+        "{}"
+    ],
+    "permissions": {
+        "Administrator": 1,
+        "Anonymous": 1,
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "alerts.js"
+}
