@@ -1,0 +1,14 @@
+{
+    "architecture": "linux386",
+    "deploy_command": "",
+    "description": "Management Adapter for the ClearBlade Edge",
+    "logs_command": "journalctl -u clearblade.service -n100",
+    "name": "EdgeManager",
+    "os": "",
+    "protocol": "",
+    "start_command": "",
+    "status_command": "./status.sh",
+    "stop_command": "",
+    "undeploy_command": "",
+    "version": 20
+}
