@@ -1,0 +1,590 @@
+{
+    "app_id": "aab189b30bcaf7b4fdd991aff210",
+    "collection_id": "8e86feb90ba6b48bddd0d2dcc2c701",
+    "items": [
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":0.068,\"temperature\":18.0588,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":6060,\"raw_pressure\":635}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "06c9000d-31a5-4692-9597-0abf8a4d3d32",
+            "timestamp": "2018-09-24T14:30:02Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":0.068,\"temperature\":18.0588,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":6060,\"raw_pressure\":635}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "07c3e286-5872-4b96-8081-1bb12684ff7a",
+            "timestamp": "2018-09-24T16:29:51Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":6.3672,\"temperature\":16.55092,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":5554,\"raw_pressure\":16383}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "0aeeb6f8-a000-4e9a-bb69-d5793c417cd6",
+            "timestamp": "2018-09-26T00:39:33Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":0.068,\"temperature\":18.0588,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":6060,\"raw_pressure\":635}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "0cf490cd-13a8-43c1-85d0-651b16541819",
+            "timestamp": "2018-09-24T15:05:28Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":6.1204,\"temperature\":16.58668,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":5566,\"raw_pressure\":15766}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "16d6a5d9-3c4d-4024-9248-f96c5edf3e19",
+            "timestamp": "2018-09-26T00:39:30Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":0.068,\"temperature\":18.0588,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":6060,\"raw_pressure\":635}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "19a34afa-25dd-40e3-9ded-62b3d6b9aa71",
+            "timestamp": "2018-09-24T14:31:33Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":6.3672,\"temperature\":16.50324,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":5538,\"raw_pressure\":16383}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "1a8899d1-b25c-4ade-99b7-9fc174aad59a",
+            "timestamp": "2018-09-26T00:39:43Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":6.3672,\"temperature\":16.51516,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":5542,\"raw_pressure\":16383}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "1c7e2d3d-0917-4c2a-83d7-5d55f0077046",
+            "timestamp": "2018-09-26T00:39:42Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":0.068,\"temperature\":18.0588,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":6060,\"raw_pressure\":635}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "1da1ff95-cf07-4fed-ab0f-798e975fe316",
+            "timestamp": "2018-09-24T17:33:35Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":0.068,\"temperature\":18.0588,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":6060,\"raw_pressure\":635}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "2b6b546d-43ff-490a-8453-1f667d16e72d",
+            "timestamp": "2018-09-24T15:12:51Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":0.068,\"temperature\":18.0588,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":6060,\"raw_pressure\":635}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "2cdb88d0-2aa6-441f-96e2-972037bdd41a",
+            "timestamp": "2018-09-24T16:30:21Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":6.3672,\"temperature\":16.5092,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":5540,\"raw_pressure\":16383}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "2f66b802-6320-41be-be13-709386581284",
+            "timestamp": "2018-09-26T00:39:45Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":0.068,\"temperature\":18.0588,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":6060,\"raw_pressure\":635}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "301eb85d-8a92-4014-b01e-6bd9a6595dfc",
+            "timestamp": "2018-09-24T16:12:21Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":6.3672,\"temperature\":16.33636,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":5482,\"raw_pressure\":16383}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "32ac5198-4412-4444-b506-3b23b439cbd6",
+            "timestamp": "2018-09-26T00:39:51Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":6.3672,\"temperature\":16.57178,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":5561,\"raw_pressure\":16383}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "3409444c-f8a2-4a17-89fb-67cea690e1b8",
+            "timestamp": "2018-09-26T00:39:34Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":6.3672,\"temperature\":16.50026,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":5537,\"raw_pressure\":16383}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "424c314a-61d0-4f48-a12e-1b391a855b64",
+            "timestamp": "2018-09-26T00:39:50Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":5.8204,\"temperature\":16.59264,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":5568,\"raw_pressure\":15016}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "429b5bd3-2ba1-4f62-8f85-19af17a57ab7",
+            "timestamp": "2018-09-26T00:39:29Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":6.3672,\"temperature\":16.241,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":5450,\"raw_pressure\":16383}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "44c47d78-51a9-4d11-83bb-70f66b7a26f7",
+            "timestamp": "2018-09-26T00:39:55Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":6.3672,\"temperature\":16.53304,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":5548,\"raw_pressure\":16383}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "48ef0e1f-5e78-4708-8821-37bf4d36eb91",
+            "timestamp": "2018-09-26T00:39:52Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":6.3672,\"temperature\":16.55688,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":5556,\"raw_pressure\":16383}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "4970f919-2fa7-42d3-bfa1-09686ae08e77",
+            "timestamp": "2018-09-26T00:39:38Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":5.5492,\"temperature\":16.59264,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":5568,\"raw_pressure\":14338}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "4ab74ca0-d1fb-4c1f-9d30-380d500f4255",
+            "timestamp": "2018-09-26T00:39:28Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":6.3672,\"temperature\":16.5688,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":5560,\"raw_pressure\":16383}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "4f73598b-9c22-49ac-a70c-b5e2d92b92e0",
+            "timestamp": "2018-09-26T00:39:56Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":0.068,\"temperature\":18.0588,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":6060,\"raw_pressure\":635}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "5535410a-868a-4b18-9390-8d7d14990e19",
+            "timestamp": "2018-09-24T14:31:58Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":0.068,\"temperature\":18.0588,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":6060,\"raw_pressure\":635}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "555c67dd-97a8-4582-b18c-9b2d27db57af",
+            "timestamp": "2018-09-24T17:20:09Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":6.068,\"temperature\":18.0588,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":6060,\"raw_pressure\":635}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "57ebbb38-c67b-4875-ab6c-44d55e9117de",
+            "timestamp": "2018-09-25T18:09:35Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":6.3672,\"temperature\":16.54794,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":5553,\"raw_pressure\":16383}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "5f19e7c8-20fe-41de-9cb1-d715369f0dd6",
+            "timestamp": "2018-09-26T00:39:39Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":0.068,\"temperature\":18.0588,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":6060,\"raw_pressure\":635}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "627e5023-8c23-498f-8bf3-fd1e96877b2c",
+            "timestamp": "2018-09-24T15:08:48Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":6.3672,\"temperature\":16.56284,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":5558,\"raw_pressure\":16383}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "62c7e017-3c2b-489b-a2a2-052861cd585a",
+            "timestamp": "2018-09-26T00:39:54Z"
+        },
+        {
+            "alertdetails": "{\"Temperature\":75,\"deviceid\":\"00:00:00:00:00:02\",\"device_name\":\"wifidevice_02\",\"Manufacturer\":\"ClearBlade Dev Sim\",\"Humidity\":64}",
+            "alertname": "wifi_temp_high_alert",
+            "alerttype": "wifi_temp_high_alert",
+            "device_id": "00:00:00:00:00:02",
+            "item_id": "632f596a-655d-4831-8975-f2e3aed1d33a",
+            "timestamp": "2018-09-21T18:59:18Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":0.068,\"temperature\":18.0588,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":6060,\"raw_pressure\":635}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "65675a80-2187-49d8-a057-0f4f228674e6",
+            "timestamp": "2018-09-24T16:28:45Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":6.3672,\"temperature\":16.55986,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":5557,\"raw_pressure\":16383}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "66374b0c-9a7c-4de2-9dff-4caad36ddd07",
+            "timestamp": "2018-09-26T00:39:35Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":6.068,\"temperature\":18.0588,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":6060,\"raw_pressure\":635}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "67b2d428-2d06-4540-9561-4fad69beb455",
+            "timestamp": "2018-09-25T17:44:12Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":6.3672,\"temperature\":16.54794,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":5553,\"raw_pressure\":16383}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "68e41ca2-503e-4994-8263-1a7c973726ae",
+            "timestamp": "2018-09-26T00:39:53Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":6.3672,\"temperature\":16.50324,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":5538,\"raw_pressure\":16383}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "697fc7a7-e732-4f3c-917f-b5453afac94d",
+            "timestamp": "2018-09-26T00:39:48Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":6.3672,\"temperature\":16.57476,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":5562,\"raw_pressure\":16383}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "70a0c8c1-9630-460c-9273-f1a52573f034",
+            "timestamp": "2018-09-26T00:39:57Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":0.068,\"temperature\":18.0588,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":6060,\"raw_pressure\":635}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "7dbded67-809b-4bde-aa53-ca40f65d1182",
+            "timestamp": "2018-09-24T15:13:30Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":5.3356,\"temperature\":16.60456,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":5572,\"raw_pressure\":13804}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "82a60720-fe54-4600-aee5-594fbc52a2a0",
+            "timestamp": "2018-09-26T00:39:27Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":0.068,\"temperature\":18.0588,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":6060,\"raw_pressure\":635}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "862ecaa6-7d75-4f79-8f58-3cb800c06ca1",
+            "timestamp": "2018-09-24T14:30:30Z"
+        },
+        {
+            "alertdetails": "{\"Humidity\":36,\"Temperature\":84,\"deviceid\":\"00:00:00:00:00:02\",\"device_name\":\"wifidevice_02\",\"Manufacturer\":\"ClearBlade Dev Sim\"}",
+            "alertname": "wifi_temp_high_alert",
+            "alerttype": "wifi_temp_high_alert",
+            "device_id": "00:00:00:00:00:02",
+            "item_id": "8c48cc47-1560-43f8-9dc8-83e3b0e5755e",
+            "timestamp": "2018-09-21T18:59:23Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":0.068,\"temperature\":18.0588,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":6060,\"raw_pressure\":635}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "8fd302f5-7a78-4836-a58a-89a108f018ad",
+            "timestamp": "2018-09-24T14:42:40Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":0.068,\"temperature\":18.0588,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":6060,\"raw_pressure\":635}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "901cdd73-57ff-483f-9321-30d0db19a7b3",
+            "timestamp": "2018-09-24T14:45:54Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":0.068,\"temperature\":18.0588,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":6060,\"raw_pressure\":635}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "9316ec6c-1c83-47d6-a76d-26cee34a09a5",
+            "timestamp": "2018-09-24T16:12:07Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":0.068,\"temperature\":18.0588,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":6060,\"raw_pressure\":635}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "95c9bf25-f456-4fcc-bd31-5a7a3255cb26",
+            "timestamp": "2018-09-24T14:43:01Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":6.3672,\"temperature\":16.23504,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":5448,\"raw_pressure\":16383}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "9900ebf0-e00f-482d-bddc-c77dd94cb47a",
+            "timestamp": "2018-09-26T00:39:32Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":0.068,\"temperature\":18.0588,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":6060,\"raw_pressure\":635}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "a170cb48-ffa0-42bf-9c31-507a948e3785",
+            "timestamp": "2018-09-24T15:02:06Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":0.068,\"temperature\":18.0588,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":6060,\"raw_pressure\":635}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "a31eb9c4-a2c3-4980-8628-7fdcd1eb2b8c",
+            "timestamp": "2018-09-24T14:33:17Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":6.3672,\"temperature\":16.53602,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":5549,\"raw_pressure\":16383}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "a4082a57-447f-4c5c-a2f7-a6fbfe256638",
+            "timestamp": "2018-09-26T00:39:40Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":0.068,\"temperature\":18.0588,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":6060,\"raw_pressure\":635}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "a7a8336a-cd29-41d9-80f9-5a15e024ae90",
+            "timestamp": "2018-09-24T15:07:46Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":6.3672,\"temperature\":16.5092,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":5540,\"raw_pressure\":16383}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "ac5b6840-4870-4d73-b232-b81620a61a54",
+            "timestamp": "2018-09-26T00:39:50Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":6.3672,\"temperature\":16.58072,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":5564,\"raw_pressure\":16383}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "b33c75cc-43c3-4e78-a377-ec40274bdcbb",
+            "timestamp": "2018-09-26T00:39:31Z"
+        },
+        {
+            "alertdetails": "{\"deviceid\":\"00:00:00:00:00:01\",\"device_name\":\"00:00:00:00:00:01\",\"Temperature\":85,\"Humidity\":44,\"Manufacturer\":\"ClearBlade Wifi Device Simulator\"}",
+            "alertname": "wifi_temp_high_alert",
+            "alerttype": "wifi_temp_high_alert",
+            "device_id": "00:00:00:00:00:01",
+            "item_id": "b5bbfdcb-8474-4b97-ae4f-961aae1c9f12",
+            "timestamp": "2018-09-21T18:59:16Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":0.068,\"temperature\":18.0588,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":6060,\"raw_pressure\":635}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "ba8d446e-0fc7-46ae-82f7-1a586c2f399f",
+            "timestamp": "2018-09-24T17:34:29Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":0.068,\"temperature\":18.0588,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":6060,\"raw_pressure\":635}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "bba2bb01-2fbc-401d-836e-8b8ecc8b9360",
+            "timestamp": "2018-09-24T15:06:56Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":6.3672,\"temperature\":16.52112,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":5544,\"raw_pressure\":16383}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "c35b5e32-9488-4bb1-ab11-7217c4cd7b9e",
+            "timestamp": "2018-09-26T00:39:37Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":0.068,\"temperature\":18.0588,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":6060,\"raw_pressure\":635}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "c85d594d-8f6b-460d-a674-ca3f78169f03",
+            "timestamp": "2018-09-24T14:44:10Z"
+        },
+        {
+            "alertdetails": "{\"Temperature\":63,\"deviceid\":\"00:00:00:00:00:02\",\"device_name\":\"wifidevice_02\",\"Manufacturer\":\"ClearBlade Dev Sim\",\"Humidity\":57}",
+            "alertname": "wifi_temp_high_alert",
+            "alerttype": "wifi_temp_high_alert",
+            "device_id": "00:00:00:00:00:02",
+            "item_id": "ca82bf37-5ae3-45d2-9ab4-dd9db7db01f9",
+            "timestamp": "2018-09-21T18:59:21Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":6.3672,\"temperature\":16.53602,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":5549,\"raw_pressure\":16383}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "cd0a8cf8-9cf7-4002-be46-f8821b61ad6c",
+            "timestamp": "2018-09-26T00:39:41Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":0.068,\"temperature\":18.0588,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":6060,\"raw_pressure\":635}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "d027e073-faf4-4248-bc28-17861d94aaf6",
+            "timestamp": "2018-09-24T15:06:10Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":0.068,\"temperature\":18.0588,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":6060,\"raw_pressure\":635}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "d0606507-6595-4b7c-b7a8-8b67fb3c1fd2",
+            "timestamp": "2018-09-24T14:52:27Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":0.068,\"temperature\":18.0588,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":6060,\"raw_pressure\":635}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "d108e844-cb0a-464a-a13f-b51399a2858f",
+            "timestamp": "2018-09-24T16:29:28Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":0.068,\"temperature\":18.0588,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":6060,\"raw_pressure\":635}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "d62955d6-4b55-4e52-94ff-7bbc156bee1d",
+            "timestamp": "2018-09-24T14:51:44Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":6.3672,\"temperature\":16.47344,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":5528,\"raw_pressure\":16383}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "d7d7bab1-7f61-4939-8b30-aaf5bfbdf89a",
+            "timestamp": "2018-09-26T00:39:47Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":6.3672,\"temperature\":16.30656,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":5472,\"raw_pressure\":16383}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "df4b3bb7-9de5-4c6c-bbe8-4a9316f462b4",
+            "timestamp": "2018-09-26T00:39:44Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":6.3672,\"temperature\":16.46152,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":5524,\"raw_pressure\":16383}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "e5d3cc96-888b-4ff7-8bb4-4b150684b2a8",
+            "timestamp": "2018-09-26T00:39:46Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":0.068,\"temperature\":18.0588,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":6060,\"raw_pressure\":635}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "e9ed4175-7220-431a-a555-1d7e2bb3e89d",
+            "timestamp": "2018-09-24T16:08:55Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":6.3672,\"temperature\":16.539,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":5550,\"raw_pressure\":16383}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "f417ea39-beb6-43ab-a977-7297edf53234",
+            "timestamp": "2018-09-26T00:39:36Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":0.068,\"temperature\":18.0588,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":6060,\"raw_pressure\":635}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "f877bac5-d696-4b9b-af91-083863d7a10b",
+            "timestamp": "2018-09-24T15:02:46Z"
+        },
+        {
+            "alertdetails": "{\"message_type_name\":\"ADC\",\"pressure\":0.068,\"temperature\":18.0588,\"TESTMESSAGE\":false,\"deviceid\":\"D5:BC:2D:F0:83:71\",\"raw_temperature\":6060,\"raw_pressure\":635}",
+            "alertname": "bluetooth_pressure_alert",
+            "alerttype": "bluetooth_pressure_alert",
+            "device_id": "D5:BC:2D:F0:83:71",
+            "item_id": "fa54935b-ba94-418f-b489-9c45370590f6",
+            "timestamp": "2018-09-24T16:31:59Z"
+        }
+    ],
+    "name": "alerts",
+    "permissions": {
+        "Administrator": 15,
+        "Anonymous": 1,
+        "Authenticated": 15,
+        "bleAdapter Role": 3,
+        "wifiAdapter Role": 3
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "alertname",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "alertdetails",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "alerttype",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "timestamp",
+            "ColumnType": "timestamp",
+            "PK": false
+        },
+        {
+            "ColumnName": "device_id",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
