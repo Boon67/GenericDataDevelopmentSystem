@@ -1,0 +1,38 @@
+{
+    "assets": [
+        {
+            "asset_class": "devices",
+            "asset_id": "",
+            "deployment": "C031051823-00001",
+            "member": "C031051823-00001_deployment_edge_group",
+            "sync": true
+        },
+        {
+            "asset_class": "ble_whitelist",
+            "asset_id": "8097e00f-ea84-4361-b810-2b4701046944",
+            "deployment": "C031051823-00001",
+            "member": "C031051823-00001_deployment_edge_group",
+            "sync": true
+        },
+        {
+            "asset_class": "ble_whitelist",
+            "asset_id": "e0a53613-1299-4c20-909a-917b72c465bb",
+            "deployment": "C031051823-00001",
+            "member": "C031051823-00001_deployment_edge_group",
+            "sync": true
+        },
+        {
+            "asset_class": "portals",
+            "asset_id": "Multiple_Devices_BD-Demo",
+            "deployment": "C031051823-00001",
+            "member": "C031051823-00001_deployment_edge_group",
+            "sync": true
+        }
+    ],
+    "description": "BD Edge Devices",
+    "edges": [
+        "C031051823-00001",
+        "BD_SD_PI_GW"
+    ],
+    "name": "C031051823-00001"
+}
