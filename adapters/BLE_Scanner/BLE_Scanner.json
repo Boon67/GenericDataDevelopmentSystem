@@ -1,0 +1,14 @@
+{
+    "architecture": "linux386",
+    "deploy_command": "./deploy.sh",
+    "description": "Scans for BLE Devices",
+    "logs_command": "journalctl -u BluetoothDevices.service -n100",
+    "name": "BLE_Scanner",
+    "os": "",
+    "protocol": "",
+    "start_command": "./start.sh",
+    "status_command": "./status.sh",
+    "stop_command": "./stop.sh",
+    "undeploy_command": "./undeploy.sh",
+    "version": 71
+}
