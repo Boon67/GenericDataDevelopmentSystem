@@ -1,0 +1,12 @@
+{
+    "columns": [
+        {
+            "ColumnName": "user_id",
+            "ColumnType": "string",
+            "PK": true
+        }
+    ],
+    "permissions": {
+        "bleAdapter Role": 15
+    }
+}
