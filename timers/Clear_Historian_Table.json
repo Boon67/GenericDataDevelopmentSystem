@@ -1,0 +1,8 @@
+{
+    "description": "Removes the historian records",
+    "frequency": 86400,
+    "name": "Clear_Historian_Table",
+    "repeats": -1,
+    "service_name": "clearHistorianTable",
+    "start_time": "2018-09-14T05:59:59Z"
+}
