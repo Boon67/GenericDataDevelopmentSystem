@@ -1,0 +1,13 @@
+{
+    "description": "Rigado gateway in CB office",
+    "last_seen_version": "4.1.13",
+    "location": null,
+    "mac_address": null,
+    "name": "C031051823-00018",
+    "policy_name": null,
+    "resolver_func": null,
+    "sync_edge_tables": null,
+    "system_key": "aab189b30bcaf7b4fdd991aff210",
+    "system_secret": "AAB189B30BD0F8C5E98DD3CBF456",
+    "token": "C031051823-00018"
+}
