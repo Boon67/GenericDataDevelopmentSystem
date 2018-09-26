@@ -1,0 +1,10 @@
+{
+    "allow_certificate_auth": true,
+    "allow_key_auth": true,
+    "certificate": "",
+    "description": "Off the shelf BLE end point",
+    "enabled": true,
+    "name": "NRF_Thingy",
+    "state": "{model: 'Acc1'}",
+    "type": "BLE Sensor"
+}
