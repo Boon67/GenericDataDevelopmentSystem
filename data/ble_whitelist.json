@@ -1,0 +1,60 @@
+{
+    "app_id": "aab189b30bcaf7b4fdd991aff210",
+    "collection_id": "fe9ebcb80bf6c8d0d698cafafd1c",
+    "items": [
+        {
+            "active": true,
+            "display_name": "BD Infusion Pump 2",
+            "item_id": "8097e00f-ea84-4361-b810-2b4701046944",
+            "mac_address": "D5:BC:2D:F0:83:71",
+            "page_name": "DarkSquid"
+        },
+        {
+            "active": true,
+            "display_name": "BD WiFi End Point",
+            "item_id": "d2f86466-b908-4798-a480-27b9f954b627",
+            "mac_address": "00:00:00:00:00:02",
+            "page_name": "Wifi"
+        },
+        {
+            "active": true,
+            "display_name": "Cubie1",
+            "item_id": "e0a53613-1299-4c20-909a-917b72c465bb",
+            "mac_address": "F4:5E:F4:79:AC:13",
+            "page_name": "Cubie"
+        }
+    ],
+    "name": "ble_whitelist",
+    "permissions": {
+        "Administrator": 1,
+        "Anonymous": 1,
+        "Authenticated": 15
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "mac_address",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "display_name",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "page_name",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "active",
+            "ColumnType": "bool",
+            "PK": false
+        }
+    ]
+}
