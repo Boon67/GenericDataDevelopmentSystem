@@ -1,0 +1,13 @@
+{
+    "description": "Centri Raspberry Pi",
+    "last_seen_version": "4.1.7",
+    "location": null,
+    "mac_address": null,
+    "name": "centri-edge",
+    "policy_name": null,
+    "resolver_func": null,
+    "sync_edge_tables": null,
+    "system_key": "aab189b30bcaf7b4fdd991aff210",
+    "system_secret": "AAB189B30BD0F8C5E98DD3CBF456",
+    "token": "3vs96jxou0495Y0VnQUxS0g11"
+}
