@@ -1,0 +1,5 @@
+#Variables
+ADAPTERSERVICENAME=BluetoothDevices.service
+SYSTEMDPATH=/lib/systemd/system
+PYTHONFILE=finddevices.py
+PYTHONBIN=/usr/bin/python
