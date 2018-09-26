@@ -1,0 +1,17 @@
+{
+    "auto_restart": false,
+    "concurrency": 0,
+    "current_version": 20,
+    "dependencies": "log,clearblade",
+    "execution_timeout": 60,
+    "logging_enabled": "false",
+    "name": "sim_wifidata",
+    "params": [
+        "{}"
+    ],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "sim_wifidata.js"
+}
