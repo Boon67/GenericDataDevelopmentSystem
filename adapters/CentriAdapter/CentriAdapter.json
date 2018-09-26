@@ -1,0 +1,14 @@
+{
+    "architecture": "edge-linux-armv7",
+    "deploy_command": "echo Deployed",
+    "description": "",
+    "logs_command": "which adapter",
+    "name": "CentriAdapter",
+    "os": "",
+    "protocol": "",
+    "start_command": "",
+    "status_command": "echo Running",
+    "stop_command": "",
+    "undeploy_command": "",
+    "version": 33
+}
