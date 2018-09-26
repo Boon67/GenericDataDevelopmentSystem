@@ -1,0 +1,16 @@
+{
+    "assets": [
+        {
+            "asset_class": "devices",
+            "asset_id": "",
+            "deployment": "Centri Edge",
+            "member": "Centri Edge_deployment_edge_group",
+            "sync": true
+        }
+    ],
+    "description": "Centri PI Edge",
+    "edges": [
+        "centri-edge"
+    ],
+    "name": "Centri Edge"
+}
