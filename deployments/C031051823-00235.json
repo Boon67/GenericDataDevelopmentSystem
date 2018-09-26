@@ -1,0 +1,16 @@
+{
+    "assets": [
+        {
+            "asset_class": "devices",
+            "asset_id": "",
+            "deployment": "C031051823-00235",
+            "member": "C031051823-00235_deployment_edge_group",
+            "sync": true
+        }
+    ],
+    "description": "Centri Rigado Edge",
+    "edges": [
+        "C031051823-00235"
+    ],
+    "name": "C031051823-00235"
+}
