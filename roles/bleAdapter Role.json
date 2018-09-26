@@ -1,0 +1,92 @@
+{
+    "Description": "Role for performing BLE Operations in the system",
+    "ID": "eac0bbb50bdcfc90da83d0cca172",
+    "Name": "bleAdapter Role",
+    "Permissions": {
+        "AllCollections": {
+            "Level": 15
+        },
+        "AllServices": {
+            "Level": 15
+        },
+        "CodeServices": [
+            {
+                "Level": 1,
+                "Name": "alert_service",
+                "SystemKey": "aab189b30bcaf7b4fdd991aff210"
+            },
+            {
+                "Level": 0,
+                "Name": "clearMessageQueues",
+                "SystemKey": "aab189b30bcaf7b4fdd991aff210"
+            },
+            {
+                "Level": 1,
+                "Name": "ext_processWIFIDataMessage",
+                "SystemKey": "aab189b30bcaf7b4fdd991aff210"
+            },
+            {
+                "Level": 1,
+                "Name": "platform_processBLEDataMessage",
+                "SystemKey": "aab189b30bcaf7b4fdd991aff210"
+            }
+        ],
+        "Collections": [
+            {
+                "Columns": [],
+                "ID": "8e86feb90ba6b48bddd0d2dcc2c701",
+                "Items": [],
+                "Level": 3,
+                "Name": "alerts"
+            },
+            {
+                "Columns": [],
+                "ID": "f89cd7b90baaced6efb197f4c347",
+                "Items": [],
+                "Level": 7,
+                "Name": "azure_historian"
+            },
+            {
+                "Columns": [],
+                "ID": "e4d0bab90bb2e7c9f19ea4b48ca001",
+                "Items": [],
+                "Level": 7,
+                "Name": "historian"
+            }
+        ],
+        "Deployments": {
+            "Level": 0
+        },
+        "DevicesList": {
+            "Level": 15
+        },
+        "EdgesList": {
+            "Level": 0
+        },
+        "MsgHistory": {
+            "Level": 9
+        },
+        "Portals": [],
+        "Push": {
+            "Level": 0
+        },
+        "Roles": {
+            "Level": 0
+        },
+        "Timers": {
+            "Level": 0
+        },
+        "Topics": [
+            {
+                "Level": 3,
+                "Name": "#"
+            }
+        ],
+        "Triggers": {
+            "Level": 0
+        },
+        "UsersList": {
+            "Level": 15
+        }
+    }
+}
