@@ -1,0 +1,19 @@
+{
+    "auto_restart": false,
+    "concurrency": 0,
+    "current_version": 9,
+    "dependencies": "log,clearblade",
+    "execution_timeout": 600,
+    "logging_enabled": "false",
+    "name": "ext_clearHistorianTable",
+    "params": [
+        "{}"
+    ],
+    "permissions": {
+        "Administrator": 1,
+        "Anonymous": 1,
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "ext_clearHistorianTable.js"
+}
