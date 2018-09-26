@@ -1,0 +1,20 @@
+{
+    "auto_restart": false,
+    "concurrency": 0,
+    "current_version": 32,
+    "dependencies": "log,clearblade,qLib",
+    "execution_timeout": 600,
+    "logging_enabled": "false",
+    "name": "platform_processWIFIDataMessage",
+    "params": [
+        "{}"
+    ],
+    "permissions": {
+        "Administrator": 1,
+        "Anonymous": 1,
+        "Authenticated": 1,
+        "wifiAdapter Role": 1
+    },
+    "run_user": "",
+    "source": "platform_processWIFIDataMessage.js"
+}
