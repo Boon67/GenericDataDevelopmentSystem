@@ -1,0 +1,97 @@
+{
+    "Description": "",
+    "ID": "f887a4b60bf2e9defacbe8faf43c",
+    "Name": "wifiAdapter Role",
+    "Permissions": {
+        "AllCollections": {
+            "Level": 0
+        },
+        "AllServices": {
+            "Level": 0
+        },
+        "CodeServices": [
+            {
+                "Level": 1,
+                "Name": "alert_service",
+                "SystemKey": "aab189b30bcaf7b4fdd991aff210"
+            },
+            {
+                "Level": 1,
+                "Name": "ext_processWIFIDataMessage",
+                "SystemKey": "aab189b30bcaf7b4fdd991aff210"
+            },
+            {
+                "Level": 0,
+                "Name": "platform_processBLEDataMessage",
+                "SystemKey": "aab189b30bcaf7b4fdd991aff210"
+            },
+            {
+                "Level": 1,
+                "Name": "platform_processWIFIDataMessage",
+                "SystemKey": "aab189b30bcaf7b4fdd991aff210"
+            },
+            {
+                "Level": 1,
+                "Name": "svc_wifi_data",
+                "SystemKey": "aab189b30bcaf7b4fdd991aff210"
+            }
+        ],
+        "Collections": [
+            {
+                "Columns": [],
+                "ID": "8e86feb90ba6b48bddd0d2dcc2c701",
+                "Items": [],
+                "Level": 3,
+                "Name": "alerts"
+            },
+            {
+                "Columns": [],
+                "ID": "f89cd7b90baaced6efb197f4c347",
+                "Items": [],
+                "Level": 7,
+                "Name": "azure_historian"
+            },
+            {
+                "Columns": [],
+                "ID": "e4d0bab90bb2e7c9f19ea4b48ca001",
+                "Items": [],
+                "Level": 7,
+                "Name": "historian"
+            }
+        ],
+        "Deployments": {
+            "Level": 0
+        },
+        "DevicesList": {
+            "Level": 0
+        },
+        "EdgesList": {
+            "Level": 0
+        },
+        "MsgHistory": {
+            "Level": 1
+        },
+        "Portals": [],
+        "Push": {
+            "Level": 0
+        },
+        "Roles": {
+            "Level": 0
+        },
+        "Timers": {
+            "Level": 0
+        },
+        "Topics": [
+            {
+                "Level": 3,
+                "Name": "#"
+            }
+        ],
+        "Triggers": {
+            "Level": 0
+        },
+        "UsersList": {
+            "Level": 0
+        }
+    }
+}
