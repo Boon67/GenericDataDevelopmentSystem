@@ -1,0 +1,23 @@
+{
+    "assets": [
+        {
+            "asset_class": "devices",
+            "asset_id": "",
+            "deployment": "C031051823-00107",
+            "member": "C031051823-00107_deployment_edge_group",
+            "sync": false
+        },
+        {
+            "asset_class": "ble_whitelist",
+            "asset_id": "",
+            "deployment": "C031051823-00107",
+            "member": "C031051823-00107_deployment_edge_group",
+            "sync": false
+        }
+    ],
+    "description": "Rigado Rigado Edge",
+    "edges": [
+        "C031051823-00107"
+    ],
+    "name": "C031051823-00107"
+}
