@@ -1,0 +1,8 @@
+{
+    "description": "Simulates Wifi Data",
+    "frequency": 10,
+    "name": "wifidatatimer",
+    "repeats": -1,
+    "service_name": "sim_wifidata",
+    "start_time": "2018-09-20T11:45:46Z"
+}
